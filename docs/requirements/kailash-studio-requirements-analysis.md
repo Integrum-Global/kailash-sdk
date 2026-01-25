@@ -9,7 +9,7 @@
 **Strategic Priority**: P0 (DataFlow integration), P1 (Core workflows), P2 (Enterprise features)
 
 ### Key Findings
-Based on ultrathink-analyst recommendations and codebase analysis:
+Based on deep-analyst recommendations and codebase analysis:
 - **DataFlow-first strategy** offers highest ROI for business users
 - **Progressive framework integration** reduces implementation risk
 - **Real-time validation** and **AI-powered node discovery** are critical success factors
@@ -795,4 +795,4 @@ Success Criteria:
 
 ---
 
-This comprehensive requirements analysis provides the foundation for developing kailash-studio with a clear understanding of user needs, technical constraints, and success criteria. The DataFlow-first strategy aligns with the ultrathink-analyst recommendations while ensuring progressive integration with the broader Kailash ecosystem.
+This comprehensive requirements analysis provides the foundation for developing kailash-studio with a clear understanding of user needs, technical constraints, and success criteria. The DataFlow-first strategy aligns with the deep-analyst recommendations while ensuring progressive integration with the broader Kailash ecosystem.

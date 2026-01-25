@@ -163,12 +163,12 @@ class CredentialMockData:
         """Generate API key configuration for testing."""
         configs = {
             "generic": {
-                "api_key": "test_api_key_placeholder_12345",
+                "api_key": "test_key_placeholder_for_testing_only",
                 "header_name": "X-API-Key",
                 "prefix": None,
             },
             "stripe": {
-                "api_key": "test_stripe_key_placeholder_12345",
+                "api_key": "test_key_placeholder_for_testing_only",
                 "header_name": "Authorization",
                 "prefix": "Bearer",
             },

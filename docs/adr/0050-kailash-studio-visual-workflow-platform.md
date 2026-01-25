@@ -21,7 +21,7 @@ The Kailash SDK ecosystem has evolved into a powerful multi-framework platform w
 - Performance requirements for real-time visual editing
 
 **Strategic Context:**
-Based on ultrathink-analyst findings, a DataFlow-first strategy offers the highest ROI, with progressive framework integration reducing implementation risk while maximizing business value.
+Based on deep-analyst findings, a DataFlow-first strategy offers the highest ROI, with progressive framework integration reducing implementation risk while maximizing business value.
 
 ## Decision
 
