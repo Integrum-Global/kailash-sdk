@@ -1,0 +1,21 @@
+QA Agentic Testing
+Copyright 2025 Integrum Pte. Ltd.
+
+This product includes software developed at Integrum Pte. Ltd.
+(https://github.com/Integrum-Global/kailash_python_sdk).
+
+QA Agentic Testing is an AI-powered autonomous testing framework
+built on the Kailash SDK.
+
+This software is licensed under the Apache License, Version 2.0.
+See the LICENSE file for the full license text.
+
+PATENT NOTICE:
+The technology in this software is covered by patent applications owned by
+Integrum Pte. Ltd. See the PATENTS file in the root repository for details.
+Under Apache License 2.0, Section 3, each Contributor grants a patent license
+covering claims necessarily infringed by their Contribution(s) alone or by
+combination of their Contribution(s) with the Work.
+
+Third-party components included in this distribution may be subject to
+separate license terms as noted in their respective license files.

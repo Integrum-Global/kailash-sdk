@@ -13,10 +13,11 @@ with open(os.path.join(this_directory, "README.md"), encoding="utf-8") as f:
 # Package configuration
 setup(
     name="kailash",
-    version="0.10.15",
+    version="0.10.17",
     author="Integrum",
-    author_email="info@integrum.com",
+    author_email="info@integrum.global",
     description="Python SDK for the Kailash container-node architecture",
+    license="Apache-2.0",
     long_description=long_description,
     long_description_content_type="text/markdown",
     url="https://github.com/integrum/kailash-python-sdk",
@@ -71,7 +72,7 @@ setup(
     classifiers=[
         "Development Status :: 3 - Alpha",
         "Intended Audience :: Developers",
-        "License :: OSI Approved :: MIT License",
+        "License :: OSI Approved :: Apache Software License",
         "Programming Language :: Python :: 3",
         "Programming Language :: Python :: 3.11",
         "Programming Language :: Python :: 3.12",

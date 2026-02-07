@@ -140,6 +140,6 @@ Getting Help
 
 - **Questions**: Open a GitHub issue
 - **Discussions**: Use GitHub Discussions
-- **Security**: Email security@integrum.com
+- **Security**: Email security@integrum.global
 
 Thank you for contributing to Kailash Python SDK!

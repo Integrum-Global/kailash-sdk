@@ -13,6 +13,7 @@ long_description = (this_directory / "README.md").read_text()
 setup(
     name="qa-agentic-testing",
     version="0.1.0",
+    license="Apache-2.0",
     description="AI-powered autonomous testing framework using advanced agent systems",
     long_description=long_description,
     long_description_content_type="text/markdown",
@@ -68,7 +69,7 @@ setup(
         "Intended Audience :: Developers",
         "Topic :: Software Development :: Testing",
         "Topic :: Software Development :: Quality Assurance",
-        "License :: OSI Approved :: MIT License",
+        "License :: OSI Approved :: Apache Software License",
         "Programming Language :: Python :: 3",
         "Programming Language :: Python :: 3.8",
         "Programming Language :: Python :: 3.9",

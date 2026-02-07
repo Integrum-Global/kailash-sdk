@@ -88,4 +88,4 @@ If you need help with migration:
 
 - Check the `GitHub Issues <https://github.com/integrum/kailash-python-sdk/issues>`_
 - Review the `CHANGELOG <https://github.com/integrum/kailash-python-sdk/blob/main/CHANGELOG.md>`_
-- Contact support at support@integrum.com
+- Contact support at support@integrum.global

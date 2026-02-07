@@ -241,7 +241,7 @@ Reporting Security Issues
 If you discover a security vulnerability:
 
 1. **Do NOT** open a public issue
-2. Email security@integrum.com with:
+2. Email security@integrum.global with:
 
    - Description of the vulnerability
    - Steps to reproduce
@@ -278,7 +278,7 @@ The Kailash Python SDK is designed to help meet common compliance requirements:
 - **SOC 2**: Comprehensive audit logging capabilities
 - **PCI DSS**: No credit card data processing in core SDK
 
-For specific compliance needs, please contact compliance@integrum.com.
+For specific compliance needs, please contact compliance@integrum.global.
 
 Additional Resources
 --------------------

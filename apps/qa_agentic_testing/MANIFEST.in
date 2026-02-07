@@ -1,0 +1,15 @@
+include README.md
+include LICENSE
+include NOTICE
+
+recursive-include qa_agentic_testing *.py
+
+global-exclude *.pyc
+global-exclude *.pyo
+global-exclude __pycache__
+global-exclude .DS_Store
+global-exclude *.egg-info
+
+prune tests
+prune .git
+prune .pytest_cache
