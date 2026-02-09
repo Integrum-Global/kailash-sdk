@@ -13,7 +13,7 @@ with open(os.path.join(this_directory, "README.md"), encoding="utf-8") as f:
 # Package configuration
 setup(
     name="kailash",
-    version="0.10.17",
+    version="0.11.0",
     author="Integrum",
     author_email="info@integrum.global",
     description="Python SDK for the Kailash container-node architecture",
